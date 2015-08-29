@@ -1,0 +1,7 @@
+#git init - initated a new empty git
+#git add - stages changes for commit
+#git commit - takes snapshot of current state of
+#git branch - creates new branch
+#git checkout - switches branches
+#git log - shows all files in the branch
+#git status - what have you done

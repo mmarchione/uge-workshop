@@ -5,3 +5,4 @@
 #git checkout - switches branches
 #git log - shows all files in the branch
 #git status - what have you done
+#git always goes first!

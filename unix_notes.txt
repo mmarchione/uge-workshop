@@ -1,0 +1,302 @@
+cd
+man less
+history | less
+history |less
+history
+cd /documents
+cd Documents
+cd ..
+/
+subl .
+.
+ls /
+cdc
+ls
+cd Applications/
+ls ~
+tree /Applications/
+pwd
+tree /s
+cd ../Downloads/
+cd projects
+cd 
+..
+cd Library/
+ls -l
+cd Guest/
+cd..
+cd Donut\ Pics/
+cd donuts!/
+cd project
+cd Pictures/
+ls 
+cd music
+cd movies
+clear
+cd temp
+cd TEMP
+cd /
+cd home
+cd ~
+ls -rlt
+ls-R
+man lh
+h
+lh
+man lsh
+man ls
+ls -r
+lr -r
+ls -lt
+ls -t
+ls-t
+cd ~/Downloads/
+git --version
+git config --global user.email
+git config --global user.name
+git config 
+git --config
+echo $PATH
+subl /etc/paths
+subl-w
+subl
+brew info
+fish update
+ln
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+l
+Library/
+install fish
+fish
+su
+clea
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Michael Marchione'
+git config --global user.email 'mjmarchione@gmail.com'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+subl ~/.config/fish/config.fish
+chsh -s /usr/local/bin/fish
+brew info fish
+brew in
+killall fishd
+brew info 
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+colors
+bash
+ls Public
+ls Library
+library
+cd library
+cd public
+env
+df
+cal
+smyck
+cd michaelmarchione
+home
+/l
+li
+/li
+cd antign
+antigen-apply
+antigen theme arialdomartini/oh-my-git-themes oppa-lana-style
+antigen-bundle arialdomartini/oh-my-git
+antigen-use oh-my-zsh
+source "$HOME/.antigen/antigen.zsh"
+cd ~ && git clone https://github.com/zsh-users/antigen.git .antigen
+source $HOME/oh-my-git/prompt.sh
+git clone https://github.com/arialdomartini/oh-my-git.git ~/.oh-my-git && echo source ~/.oh-my-git/prompt.sh >> ~/.profile
+git--version
+git https://github.com/bbice/donut_shop.git
+dir
+cd GitHub
+https://github.com/bbice/donut_shop.git
+/projects
+/project
+list
+projects:
+projects
+sub
+mkdir projects
+man touch
+touch 
+man man
+ls -l ~
+-l
+more music
+more
+~
+man
+man /music
+[
+command
+com
+app
+show
+mkdir
+cd c
+sys
+ls -l moving_around.txt 
+ls -t | less
+ls -lrt
+ls -rt
+ls -t
+ls moving_around.txt 
+history >moving_around.txt
+cd
+man less
+history | less
+history |less
+history
+cd /documents
+cd Documents
+cd ..
+/
+subl .
+.
+ls /
+cdc
+ls
+cd Applications/
+ls ~
+tree /Applications/
+pwd
+tree /s
+cd ../Downloads/
+cd projects
+cd 
+..
+cd Library/
+ls -l
+cd Guest/
+cd..
+cd Donut\ Pics/
+cd donuts!/
+cd project
+cd Pictures/
+ls 
+cd music
+cd movies
+clear
+cd temp
+cd TEMP
+cd /
+cd home
+cd ~
+ls -rlt
+ls-R
+man lh
+h
+lh
+man lsh
+man ls
+ls -r
+lr -r
+ls -lt
+ls-t
+cd ~/Downloads/
+git --version
+git config --global user.email
+git config --global user.name
+git config 
+git --config
+echo $PATH
+subl /etc/paths
+subl-w
+subl
+brew info
+fish update
+ln
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+l
+Library/
+install fish
+fish
+su
+clea
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Michael Marchione'
+git config --global user.email 'mjmarchione@gmail.com'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+subl ~/.config/fish/config.fish
+chsh -s /usr/local/bin/fish
+brew info fish
+brew in
+killall fishd
+brew info 
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+colors
+bash
+ls Public
+ls Library
+library
+cd library
+cd public
+env
+df
+cal
+smyck
+cd michaelmarchione
+home
+/l
+li
+/li
+cd antign
+antigen-apply
+antigen theme arialdomartini/oh-my-git-themes oppa-lana-style
+antigen-bundle arialdomartini/oh-my-git
+antigen-use oh-my-zsh
+source "$HOME/.antigen/antigen.zsh"
+cd ~ && git clone https://github.com/zsh-users/antigen.git .antigen
+source $HOME/oh-my-git/prompt.sh
+git clone https://github.com/arialdomartini/oh-my-git.git ~/.oh-my-git && echo source ~/.oh-my-git/prompt.sh >> ~/.profile
+git--version
+git https://github.com/bbice/donut_shop.git
+dir
+cd GitHub
+https://github.com/bbice/donut_shop.git
+/projects
+/project
+list
+projects:
+projects
+sub
+mkdir projects
+man touch
+touch 
+man man
+ls -l ~
+-l
+more music
+more
+~
+man
+man /music
+[
+command
+com
+app
+show
+mkdir
+cd c
+sys

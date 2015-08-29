@@ -1,3 +1,5 @@
+#Hidden files have names that begin
+#with a dot
 cd
 man less
 history | less
@@ -19,7 +21,7 @@ pwd
 tree /s
 cd ../Downloads/
 cd projects
-cd 
+cd
 ..
 cd Library/
 ls -l
@@ -29,7 +31,7 @@ cd Donut\ Pics/
 cd donuts!/
 cd project
 cd Pictures/
-ls 
+ls
 cd music
 cd movies
 clear
@@ -54,7 +56,7 @@ cd ~/Downloads/
 git --version
 git config --global user.email
 git config --global user.name
-git config 
+git config
 git --config
 echo $PATH
 subl /etc/paths
@@ -83,7 +85,7 @@ chsh -s /usr/local/bin/fish
 brew info fish
 brew in
 killall fishd
-brew info 
+brew info
 fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
@@ -129,7 +131,7 @@ projects
 sub
 mkdir projects
 man touch
-touch 
+touch
 man man
 ls -l ~
 -l
@@ -146,12 +148,12 @@ show
 mkdir
 cd c
 sys
-ls -l moving_around.txt 
+ls -l moving_around.txt
 ls -t | less
 ls -lrt
 ls -rt
 ls -t
-ls moving_around.txt 
+ls moving_around.txt
 history >moving_around.txt
 cd
 man less
@@ -174,7 +176,7 @@ pwd
 tree /s
 cd ../Downloads/
 cd projects
-cd 
+cd
 ..
 cd Library/
 ls -l
@@ -184,7 +186,7 @@ cd Donut\ Pics/
 cd donuts!/
 cd project
 cd Pictures/
-ls 
+ls
 cd music
 cd movies
 clear
@@ -208,7 +210,7 @@ cd ~/Downloads/
 git --version
 git config --global user.email
 git config --global user.name
-git config 
+git config
 git --config
 echo $PATH
 subl /etc/paths
@@ -237,7 +239,7 @@ chsh -s /usr/local/bin/fish
 brew info fish
 brew in
 killall fishd
-brew info 
+brew info
 fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
@@ -283,7 +285,7 @@ projects
 sub
 mkdir projects
 man touch
-touch 
+touch
 man man
 ls -l ~
 -l
